@@ -1,1 +1,4 @@
-print("BUY")
+import random
+
+print(random)
+
